@@ -9,3 +9,6 @@ foreach (var intList in intLists)
 {
     Console.WriteLine(string.Join(" ", intList));
 }
+
+var safeNumber = lineProcessor.ValidateIntLists(intLists);
+Console.WriteLine($"Part 1 how many reports are safe: {safeNumber}");
