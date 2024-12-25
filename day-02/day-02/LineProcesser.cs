@@ -29,13 +29,13 @@ namespace day_02
             return intLists;
         }
 
-        internal static bool IsAllIncresingOrDecresing(List<int> list) {
+        private static bool IsAllIncresingOrDecresing(List<int> list) {
             bool allNegative = list.TrueForAll(x => x < 0);
             bool allPositive = list.TrueForAll(x => x > 0);
             return allNegative || allPositive;
         }
 
-        internal static bool IsAtRangOfOneToThree(List<int> list)
+        private static bool IsAtRangOfOneToThree(List<int> list)
         {
             var positveList = list.ConvertAll(x => Math.Abs(x));
             return positveList.TrueForAll(x => x >= 1 && x <= 3); 
