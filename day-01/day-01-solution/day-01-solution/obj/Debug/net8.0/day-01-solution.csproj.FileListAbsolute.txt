@@ -1,0 +1,15 @@
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\bin\Debug\net8.0\day-01-solution.exe
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\bin\Debug\net8.0\day-01-solution.deps.json
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\bin\Debug\net8.0\day-01-solution.runtimeconfig.json
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\bin\Debug\net8.0\day-01-solution.dll
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\bin\Debug\net8.0\day-01-solution.pdb
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\obj\Debug\net8.0\day-01-solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\obj\Debug\net8.0\day-01-solution.AssemblyInfoInputs.cache
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\obj\Debug\net8.0\day-01-solution.AssemblyInfo.cs
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\obj\Debug\net8.0\day-01-solution.csproj.CoreCompileInputs.cache
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\obj\Debug\net8.0\day-01-solution.sourcelink.json
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\obj\Debug\net8.0\day-01-solution.dll
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\obj\Debug\net8.0\refint\day-01-solution.dll
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\obj\Debug\net8.0\day-01-solution.pdb
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\obj\Debug\net8.0\day-01-solution.genruntimeconfig.cache
+C:\others\AdventOfCode2024\day-01\day-01-solution\day-01-solution\obj\Debug\net8.0\ref\day-01-solution.dll
