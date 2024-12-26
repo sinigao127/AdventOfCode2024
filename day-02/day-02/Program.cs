@@ -12,3 +12,6 @@ foreach (var intList in intLists)
 
 var safeNumber = lineProcessor.ValidateIntLists(intLists);
 Console.WriteLine($"Part 1 how many reports are safe: {safeNumber}");
+
+var safeNumberWithProblemDepensor = lineProcessor.ValidateIntListsWithProblemDepensor(intLists);
+Console.WriteLine($"Part 2 how many reports are safe with problem depensor: {safeNumberWithProblemDepensor}");
